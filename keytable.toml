@@ -2,8 +2,8 @@
 name = "vpfct-kvm"
 protocol = "nec"
 [protocols.scancodes]
-0x8012 = "KEY_POWER_ON"
-0x801e = "KEY_POWER_OFF"
+0x8012 = "KEY_POWER2"
+0x801e = "KEY_POWER"
 0x8004 = "KEY_NUMERIC_1"
 0x8006 = "KEY_NUMERIC_2"
 0x800a = "KEY_NUMERIC_3"
